@@ -1,4 +1,4 @@
-# 2D Non-Rigid Tricubic Point Cloud Registration
+# 2D Non-Rigid ICP
 
 ## Introduction
 
